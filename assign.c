@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <malloc.h>
+//update 12/23
 /*
 -- 프로그램에서 사용되는 사용자 정의 함수 목록 --
 1. swap : 두 포인터 변수의 주소값을 바꾸어줌
